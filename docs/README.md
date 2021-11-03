@@ -2,6 +2,11 @@
 
 [![MIT License][mit-img]][mit] [![GitHub Release][release-img]][release] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![Docker Image][docker-img]][docker] [![Homebrew Package][homebrew-img]][homebrew] [![AUR Package][aur-img]][aur]
 
+** For build docker image for work prototool in Apple m1 run command:
+```bash
+docker build -t prototool:local .
+```
+
 **Update:  We recommend checking out [Buf](https://github.com/bufbuild/buf), which is under active development.  There are a ton of docs for getting started, including for [migration from Prototool](https://buf.build/docs/migration-prototool).**
 
 
